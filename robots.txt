@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-mk6jz4.ppagofacturachec.top/sitemap.xml
